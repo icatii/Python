@@ -32,6 +32,6 @@ while True:
         except ValueError:
             print("Bledna wartosc! Sprobuj jeszcze raz :)")
     else:
-        print("Bledny parametr!")
+        print("Bledny parametr!2")
             
 
