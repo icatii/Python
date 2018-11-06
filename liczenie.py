@@ -18,6 +18,8 @@ while True:
         try:
             liczba1=float(input("Podaj skladnik 1: "))
             liczba2=float(input("Podaj skladnik 2: "))
+            ii=123
+            print(type(ii))
             print("Wynik = ", liczba1+liczba2)
         except ValueError:
             print("5Bledna wartosc! Sprobuj jeszcze raz :)")
