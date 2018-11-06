@@ -20,7 +20,7 @@ while True:
             liczba2=float(input("Podaj skladnik 2: "))
             print("Wynik = ", liczba1+liczba2)
         except ValueError:
-            print("Bledna wartosc! Sprobuj jeszcze raz :)")
+            print("5Bledna wartosc! Sprobuj jeszcze raz :)")
     elif sOpcja=='4':
         try:
             liczba1=float(input("Podaj dzielna: "))
